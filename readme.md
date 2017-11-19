@@ -27,6 +27,8 @@ When processing, we do a simple sanity check of making sure that the number of l
 
 The current script simply prints a status notification. It would be best to turn this information into a summary email. Especially if the file is being processed automatically.
 
+Note: We were asked for just the month, but I have included the year as well, since just the month doesn't make sense.
+
 
 ## Test Data
 
